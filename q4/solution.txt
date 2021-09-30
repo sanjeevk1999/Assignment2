@@ -1,0 +1,8 @@
+MD5: 754AB59CD91E4F1F06273DA46E58E6AE
+
+Solution 1:
+
+target: 4109405604
+String = VDZ452L
+Hash = 0xf4f08da4
+Time elapsed = 3666.317038297653 seconds
